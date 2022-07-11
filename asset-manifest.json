@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/redux-ecommerce/static/css/main.934522cb.css",
+    "main.js": "/redux-ecommerce/static/js/main.17d5b35a.js",
+    "static/js/787.46493d11.chunk.js": "/redux-ecommerce/static/js/787.46493d11.chunk.js",
+    "static/media/ph16.jpg": "/redux-ecommerce/static/media/ph16.d055feaaf6925007a69a.jpg",
+    "static/media/ph12.jpg": "/redux-ecommerce/static/media/ph12.9cd79f0ae6cc4d5e16e9.jpg",
+    "static/media/ph11.jpg": "/redux-ecommerce/static/media/ph11.20c4466dd1649cd130b4.jpg",
+    "static/media/ph14.jpg": "/redux-ecommerce/static/media/ph14.c2ee1035ab8422335a4c.jpg",
+    "static/media/ph13.jpg": "/redux-ecommerce/static/media/ph13.cf062f39e205ff379240.jpg",
+    "static/media/ph15.jpg": "/redux-ecommerce/static/media/ph15.2813d047a10f02aa4140.jpg",
+    "static/media/ph8.png": "/redux-ecommerce/static/media/ph8.a7e733e2211d074771bd.png",
+    "static/media/ph7.png": "/redux-ecommerce/static/media/ph7.ffa29f00bbb3e286dd78.png",
+    "static/media/ph2.jpg": "/redux-ecommerce/static/media/ph2.1be506b1d26ed82d9cb9.jpg",
+    "static/media/ph5.jpg": "/redux-ecommerce/static/media/ph5.7a9dfecf230d4909bd4e.jpg",
+    "static/media/ph6.png": "/redux-ecommerce/static/media/ph6.2ba2c4a3ffff4bee2911.png",
+    "index.html": "/redux-ecommerce/index.html",
+    "main.934522cb.css.map": "/redux-ecommerce/static/css/main.934522cb.css.map",
+    "main.17d5b35a.js.map": "/redux-ecommerce/static/js/main.17d5b35a.js.map",
+    "787.46493d11.chunk.js.map": "/redux-ecommerce/static/js/787.46493d11.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.934522cb.css",
+    "static/js/main.17d5b35a.js"
+  ]
+}
